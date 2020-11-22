@@ -1,0 +1,29 @@
+body {
+    background-color: #fff;
+}
+
+
+main {
+    display: flex;
+    align-items: center;
+    max-height: 1000px;
+    height: 80vh;
+}
+
+div.container {
+    padding: 40px 64px;
+    border-radius: 16px;
+    background-color: rgb(247, 249, 250);
+
+    h1 {
+        margin: 42px 0;
+    }
+    
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 40px;
+}
